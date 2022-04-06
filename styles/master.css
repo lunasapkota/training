@@ -1,0 +1,18 @@
+nav{
+    border:1px solid black;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+}
+.title{
+    color:green;
+}
+ul>li{
+    display:inline;
+    padding-right: 4px;
+    font-size:smaller;
+}
+ul>li>a{
+    color:black;
+    text-decoration:none;
+}
